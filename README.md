@@ -2,11 +2,11 @@
 
 <p>I’m interested in creating user-friendly and efficient interfaces.</p>
 - <h2>I’m currently learning front-end development with Shecodes</h2>
-- <ul>Skills
+- <ul><h3>Skills</h3>
 <li>JAVASCRIPT</li>
 <li>HTML</li>
   <li>CSS</li>
-  <LI>Bootsrap</LI>
+  <LI>Bootstrap</LI>
 </ul>
 <hr>
 
