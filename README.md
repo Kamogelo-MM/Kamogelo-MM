@@ -1,17 +1,12 @@
-- <h1 >👋 Hi, I’m @Kamogelo-MM</h1>
-
-<p>I’m interested in creating user-friendly and efficient interfaces.</p>
-- <h2>I’m currently learning front-end development with Shecodes</h2>
+<h2>Hey,I'm Kamogelo</h2>
+<p>I am interested in learning and developing interfaces </p>
 <hr>
-
--<p> 💞️ I’m looking to collaborate on projects.</p>
-</a> 📫How to reach me:
+<h3>Get intouch</h3>
+<a href="https://img.shields.io/badge/Linkedin-bae"
+></a>
+<hr>
+<h3>Programming languages</h3>
 <ul>
-  <li>LinkedIN: @Kamogelo M</li>
-</ul></p>
--
-
-<!---
-Kamogelo-MM/Kamogelo-MM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <li></li>
+  <li></li>
+</ul>
